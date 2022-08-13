@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=bi0hazarDD&label=PROFILE+VIEWS)
 <!--
 **bi0hazarDD/bi0hazarDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -13,4 +14,3 @@
 - ⚡ Fun fact: I own 6 computers
 
 <img src="https://github-readme-stats.vercel.app/api?username=bi0hazarDD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-![](https://komarev.com/ghpvc/?username=bi0hazarDD&label=PROFILE+VIEWS)
