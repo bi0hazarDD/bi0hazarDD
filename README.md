@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Mobile & Web Development
 - 🌱 I’m currently learning Swift
-- 👯 I’m looking to collaborate on LinkedIn
+- 👯 I’m looking to collaborate on LinkedIn and Hackathons
 - 🤔 I’m looking for help with Solidity
 - 💬 Ask me about Java or any tech related stuff :)
 - 📫 How to reach me: https://www.linkedin.com/in/jonathan-carrillo-sanchez-5bb662194/
