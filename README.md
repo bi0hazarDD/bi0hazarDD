@@ -1,9 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=bi0hazarDD&label=PROFILE+VIEWS)
 <!--
-
-### Hello 👋 I'm Johny
 **bi0hazarDD/bi0hazarDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+### Hello 👋 I'm Johny
 
 - 🔭 I’m currently working on Mobile & Web Development
 - 🌱 I’m currently learning Swift
