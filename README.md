@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with Solidity
 - 💬 Ask me about Java or any tech related stuff :)
 - 📫 How to reach me: https://www.linkedin.com/in/jonathan-carrillo-sanchez-5bb662194/
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I have 6 computers
 
 <img src="https://github-readme-stats.vercel.app/api?username=bi0hazarDD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
