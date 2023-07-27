@@ -4,12 +4,12 @@
 -->
 ### Hello 👋 I'm Johny
 
-- 🔭 I’m currently working on Mobile & Web Development
+- 🔭 I’m currently working on mobile dev & cloud computing
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on LinkedIn and Hackathons
-- 🤔 I’m looking for help with Solidity
-- 💬 Ask me about Java or any tech related stuff :)
-- 📫 How to reach me: https://www.linkedin.com/in/jonathan-carrillo-sanchez-5bb662194/
-- ⚡ Fun fact: I have 6 computers
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about SwiftUI or any tech-related topics :)
+- 📫 How to reach me: https://www.linkedin.com/in/jonathan-carrillo-sanchez-5bb662194/ or by email! jonathan-8@hotmail.co.uk
+- ⚡ Fun fact: I have visited Aston Martin F1 HQ!
 
 <img src="https://github-readme-stats.vercel.app/api?username=bi0hazarDD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
