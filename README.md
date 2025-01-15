@@ -12,7 +12,6 @@
 - 👯 I’m looking to collaborate on LinkedIn and Hackathons
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about SwiftUI or any tech-related topics :)
-- 📫 How to reach me: https://www.linkedin.com/in/jonathan-carrillo-sanchez-5bb662194/ or by email! jonathan-8@hotmail.co.uk
 - ⚡ Fun fact: I have visited Aston Martin F1 HQ!
 
 
